@@ -16,4 +16,5 @@
 
 I have just learned about headers.
 
-[Sunrise]
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
